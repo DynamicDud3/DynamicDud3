@@ -5,15 +5,13 @@ Parameter Optimization,
 Optimal Control,
 Electromechanical Systems,
 Structural Dynamics,
-OpenFoam,
-Thermodynamics / Combustion CFD
+Symbolic Regression
 
 - 🌱 I’m currently learning 
 Python basics,
 Data engineering
 
 - 💞️ I’m looking to collaborate on 
-Rotating detonation engines
 
 - 📫 How to reach me:
 custom.temp.mister@gmail.com
