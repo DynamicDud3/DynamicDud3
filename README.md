@@ -1,17 +1,16 @@
 - 👋 Hi, I’m @DynamicDud3!
 
-- :mortar_board: Mechatronics undergrad
+- :mortar_board: Mechatronics grad student
 
 - 👀 I’m interested in:
-Parameter Optimization,
-Optimal Control,
-Electromechanical Systems,
-Structural Dynamics,
+Parallel Programming,
+Numeric Optimization,
+Lattice Boltzmann Methods,
 Symbolic Regression
 
 - 🌱 I’m currently learning 
-Electronics design,
-Data engineering
+CFD,
+MCMC
 
 - 💞️ I’m looking to collaborate on: stuff
 
